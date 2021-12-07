@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Silver"
+    android:padding="@dimen/Spacing">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|center_vertical">
+
+        <TextView
+            android:id="@+id/m0402_t001"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m0402_t001"
+            android:textColor="@color/Black"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/m0402_t002"
+            android:layout_width="10dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="@string/m0402_t002"
+            android:textColor="@color/Blue"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/m0402_t003"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="@string/m0402_t003"
+            android:textColor="@color/Black"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/m0402_t004"
+            android:layout_width="75dp"
+            android:layout_height="59dp"
+            android:gravity="center"
+            android:text="@string/m0402_t004"
+            android:textColor="@color/Blue"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/m0402_t005"
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/m0402_t005"
+            android:textColor="@color/Black"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/Spacing">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/m0402_t006"
+                android:layout_width="78dp"
+                android:layout_height="70dp"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t006"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/m0402_t007"
+                android:layout_width="304dp"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t007"
+                android:textColor="@color/Black"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/Spacing">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/m0402_t008"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t008"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/m0402_t009"
+                android:layout_width="304dp"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t009"
+                android:textColor="@color/Black"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/Spacing">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/m0402_t010"
+                android:layout_width="83dp"
+                android:layout_height="160dp"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t010"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/m0402_t011"
+                android:layout_width="304dp"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="@string/m0402_t011"
+                android:textColor="@color/Black"
+                android:textSize="@dimen/fontsize"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Silver"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/m0402_b001"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Gray"
+            android:text="@string/m0402_b001"
+            android:textColor="@color/Yellow"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</TableLayout>
+
+
+

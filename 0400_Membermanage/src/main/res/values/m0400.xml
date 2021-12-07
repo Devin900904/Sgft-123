@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0400_chb01">好友一</string>
+    <string name="m0400_chb02">好友二</string>
+    <string name="m0400_chb03">好友三</string>
+    <string name="m0400_chb04">好友四</string>
+    <string name="m0400_chb05">好友五</string>
+
+    
+    <string name="m0400_b001">新增好友</string>
+    <string name="m0400_t001">請輸入:</string>
+    <string name="m0400_b003">刪除</string>
+    <string name="m0400_b000">編輯</string>
+    <string name="m0400_t002">好友資訊欄</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0401_t001">請輸入gmail</string>
+    <string name="m0401_b001">送出</string>
+    <string name="m0401_chb01">好友一</string>
+    <string name="m0401_chb02">好友二</string>
+    <string name="m0401_chb03">好友三</string>
+    <string name="m0401_chb04">好友四</string>
+    <string name="m0401_chb05">好友五</string>
+    <string name="m0401_b002">儲存</string>
+</resources>

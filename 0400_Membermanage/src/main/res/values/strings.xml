@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">好友管理</string>
+    <string name="action_setting">返回</string>
+    <string name="edit_setting">編輯</string>
+    <string name="新增團友" />
+</resources>

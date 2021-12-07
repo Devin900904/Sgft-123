@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0402_t001">個人資料</string>
+    <string name="m0402_t002">姓名:</string>
+    <string name="m0402_t003">好友一</string>
+    <string name="m0402_t004">暱稱:</string>
+    <string name="m0402_t005">好友一()</string>
+    <string name="m0402_t006">手機號碼:</string>
+    <string name="m0402_t007">09xxx</string>
+    <string name="m0402_t008">email:</string>
+    <string name="m0402_t009">text@text()</string>
+    <string name="m0402_t010">關於好友一</string>
+    <string name="m0402_t011">請輸入文字</string>
+    <string name="m0402_b001">儲存</string>
+
+</resources>
